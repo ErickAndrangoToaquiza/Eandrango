@@ -1,0 +1,1 @@
+https://dev.azure.com/BancoPichinchaEC/BP-Arquetipos/_git/arq-microservicio-netcore-31

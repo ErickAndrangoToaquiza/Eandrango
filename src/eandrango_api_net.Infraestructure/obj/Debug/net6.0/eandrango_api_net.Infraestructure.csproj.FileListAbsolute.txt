@@ -1,0 +1,12 @@
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\bin\Debug\net6.0\eandrango_api_net.Infraestructure.deps.json
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\bin\Debug\net6.0\eandrango_api_net.Infraestructure.dll
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\bin\Debug\net6.0\eandrango_api_net.Infraestructure.pdb
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.csproj.AssemblyReference.cache
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.AssemblyInfoInputs.cache
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.AssemblyInfo.cs
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.csproj.CoreCompileInputs.cache
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.dll
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\refint\eandrango_api_net.Infraestructure.dll
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\eandrango_api_net.Infraestructure.pdb
+c:\Users\USUARIO\Desktop\eandrango_api_net\src\eandrango_api_net.Infraestructure\obj\Debug\net6.0\ref\eandrango_api_net.Infraestructure.dll
